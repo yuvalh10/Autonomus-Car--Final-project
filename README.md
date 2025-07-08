@@ -1,4 +1,4 @@
-#Autonomous Vehicle Project 🚗🤖
+Autonomous Vehicle Project 🚗🤖
 
 An advanced autonomous vehicle system built with Arduino Mega 2560 and Raspberry Pi 5, featuring GPS navigation, real-time obstacle avoidance, and human detection capabilities.
 
