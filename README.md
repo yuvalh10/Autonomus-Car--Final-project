@@ -84,7 +84,7 @@ Custom **Bluetooth application** featuring:
 
 ## 🎓 Academic Project
 
-This project was developed as a **final year engineering project** at **Braude College of Engineering, Karmiel** for the **Department of Electrical and Electronics Engineering**. It demonstrates practical implementation of:
+This project was developed as a **final year engineering project** at **Braude College of Engineering** for the **Department of Electrical and Electronics Engineering**. It demonstrates practical implementation of:
 
 - **Embedded systems programming**
 - **Computer vision and machine learning**
