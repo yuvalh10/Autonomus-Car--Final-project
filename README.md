@@ -102,11 +102,9 @@ This project was developed as a **final year engineering project** at **Braude C
 
 ## 🤝 Contributors
 
-- **Yuval Hamar** - Lead Developer & Hardware Integration
-- **Ido Ben Harush** - Computer Vision & Algorithm Development
+- **Yuval Hammer** - Lead Developer & Hardware and Software Development and Integration
+- **Ido Ben Harush** - Computer Vision
 
 ---
 
 *Built with ❤️ for autonomous robotics and embedded systems*
-
-**Tags**: `autonomous-vehicle` `arduino` `raspberry-pi` `gps-navigation` `computer-vision` `yolo` `obstacle-avoidance` `robotics` `embedded-systems` `iot`
