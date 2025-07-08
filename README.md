@@ -57,7 +57,7 @@ An **autonomous vehicle system** using **Arduino Mega 2560** and **Raspberry Pi 
 
 └── Raspberry Pi Code
 
-└── YOLO.py                     # Human detection and emergency stop
+│   └── YOLO.py                     # Human detection and emergency stop
 
 ### Key Algorithms
 - **Haversine Formula**: Accurate GPS distance calculations
