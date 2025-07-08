@@ -45,19 +45,19 @@ An **autonomous vehicle system** using **Arduino Mega 2560** and **Raspberry Pi 
 ### Modular Design
 ├── Arduino Code
 
-│   ├── Autonomous_Car.ino          # Main program loop
+│   ├── Autonomous_Car.ino          **Main program loop**
 
-│   ├── CarMovement.cpp/h           # Motor control and navigation
+│   ├── CarMovement.cpp/h           **Motor control and navigation**
 
-│   ├── CarState.cpp/h              # State management and communication
+│   ├── CarState.cpp/h              **State management and communication**
 
-│   ├── DistanceSensors.cpp/h       # Sensor processing with interrupts
+│   ├── DistanceSensors.cpp/h       **Sensor processing with interrupts**
 
-│   └── Config.h                    # System configuration
+│   └── Config.h                    **System configuration**
 
 └── Raspberry Pi Code
 
-│   └── YOLO.py                     # Human detection and emergency stop
+│   └── YOLO.py                     **Human detection and emergency stop**
 
 ### Key Algorithms
 - **Haversine Formula**: Accurate GPS distance calculations
